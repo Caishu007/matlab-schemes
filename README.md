@@ -1,6 +1,13 @@
 MATLAB Schemes
 ==============
 
+ 1， 在matlab命令行中运行prefdir， 获取matlab.prf文件所在路径
+
+2， 打开matlab.prf所在路径， 找到matlab.prf文件， 作备份
+
+3， 在新的matlab.prf中将新的方案直接粘贴进来，可以直接用记事本打开，清空之后贴进来新的，重启就好了
+
+
 A collection of color schemes for MATLAB.
 
 These color schemes can be enabled using the [MATLAB Schemer package].
